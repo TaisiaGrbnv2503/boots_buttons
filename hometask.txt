@@ -1,0 +1,11 @@
+У меня ветка demo и master различны, т.к в master входит первоначальный рисунок, а в demo входит ветка boots, buttons, hat.
+Комментарии в коммитах GitHub:
+Merge remote-tracking branch 'origin/hat' into boots buttons
+Merge remote-tracking branch 'origin/buttons' into boots buttons
+Merge remote-tracking branch 'origin/boots' into boots buttons
+Merge branch 'buttons' into demo
+fix readme
+dots
+Merge branch 'boots' into release
+heat added
+init
